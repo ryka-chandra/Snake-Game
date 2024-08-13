@@ -39,10 +39,4 @@ Ensure that you have Java Development Kit (JDK) installed.
 - **Multiplayer Mode**: Introduce a multiplayer mode where players can compete on the same screen.
 - **AI Integration**: Add an AI-controlled snake to compete against the player.
 
-## License
-
-No license
-
-## Contributing
-
 Contributions are welcome! If you find bugs or have ideas for new features, feel free to fork the repository and submit a pull request.
